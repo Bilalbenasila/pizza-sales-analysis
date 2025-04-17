@@ -27,7 +27,8 @@ This project showcases an interactive Excel dashboard connected to a SQL databas
 
 ## Files Included
 
-- PizzaSalesDashboard.xlsx – Main dashboard file  
+- PizzaSalesDashboard.xlsx – Main dashboard file
+- SQL-Queries.docx – Word file containing all SQL queries used  
 - Dashboard screenshot  
 - README.md – Project overview
 
@@ -38,4 +39,5 @@ This project showcases an interactive Excel dashboard connected to a SQL databas
 ## Contact
 
 For questions or collaboration:  
-Bilal – [Your email or LinkedIn here]
+Bilal – 📧 Email : bilalbenassila@gmail.com
+        💼 LinkedIn : [MY linkedin](https://www.linkedin.com/in/bilalbenasila/)
