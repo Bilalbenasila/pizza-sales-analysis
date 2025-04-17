@@ -1,10 +1,10 @@
-# 🍕 Pizza Sales Dashboard - Excel
+# 🍕 Pizza Sales Dashboard - Excel + SQL
 
-This project is an **interactive Excel dashboard** built to analyze and visualize pizza sales data. It helps identify trends in revenue, order volume, peak times, customer preferences, and best/worst selling products.
+This project showcases an interactive Excel dashboard connected to a SQL database to analyze pizza sales performance. The dashboard highlights key trends in revenue, order volume, pizza categories, and customer behavior.
 
 ## 📊 Key Insights
 
-- **Total Revenue: $817,860  
+- Total Revenue: $817,860  
 - Total Orders: 21,350  
 - Average Order Value: $38.31  
 - Average Pizzas per Order: 2.32  
@@ -13,32 +13,29 @@ This project is an **interactive Excel dashboard** built to analyze and visualiz
 
 ## 🔍 Dashboard Features
 
-- Sales trends by Day and Hour
-- Sales breakdown by Pizza category and Pizza size
+- Sales trends by day and hour
+- Sales breakdown by pizza category and pizza size
 - Top 5 and Bottom 5 pizzas by total pizzas sold
-- Clear summary cards for key KPIs
-- Filter by order date for custom time analysis
+- KPI summary cards with slicers
+- Dynamic filters for custom time-based analysis
 
-## 🧰 Tools Used
+## Tools Used
 
-- Microsoft Excel  
-- Pivot Tables  
-- Slicers & Timelines  
-- Charts & Visual Formatting  
-- Conditional Formatting
+- SQL (for querying and cleaning raw sales data)  
+- Microsoft Excel (for dashboard creation)  
+- Pivot Tables, Slicers, Conditional Formatting, Charts
 
-## 📁 Files Included
+## Files Included
 
-- `PizzaSalesDashboard.xlsx` – The main Excel dashboard  
-- Screenshots of the dashboard  
-- README.md (this file)
+- PizzaSalesDashboard.xlsx – Main dashboard file  
+- Dashboard screenshot  
+- README.md – Project overview
 
-## 📷 Dashboard Preview
+## Preview
 
 ![Pizza Sales Dashboard](pizza-dashboard-screenshot.png)
 
-## 📬 Contact
+## Contact
 
-For feedback or collaboration:  
+For questions or collaboration:  
 Bilal – [Your email or LinkedIn here]
-
